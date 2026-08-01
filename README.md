@@ -8,7 +8,6 @@
 
 教程：https://www.bilibili.com/video/BV1UWN46uEiZ/?spm_id_from=333.1387.0.0&vd_source=d6228340c5ff7cd0059e035c8943ee02
 
-***本软件仅针对中文使用场景进行了深度的优化。其他语言没有能力进行深度优化。***
 ---
 
 ## 支持语言
